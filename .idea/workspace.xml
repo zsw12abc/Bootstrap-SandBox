@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7e8e165d-54a9-4b7b-885b-3acd790e4714" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/2_2_basic_typography.html" afterPath="$PROJECT_DIR$/2_2_basic_typography.html" />
-      <change beforePath="$PROJECT_DIR$/2_3_text_alignment_display.html" afterPath="$PROJECT_DIR$/2_3_text_alignment_display.html" />
-      <change beforePath="$PROJECT_DIR$/2_4_floats_position.html" afterPath="$PROJECT_DIR$/2_4_floats_position.html" />
+      <change beforePath="$PROJECT_DIR$/2_5_colors_background.html" afterPath="$PROJECT_DIR$/2_5_colors_background.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,11 +37,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2_4_floats_position.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2_4_floats_position.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2_4_floats_position.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2_5_colors_background.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2_5_colors_background.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="21" column="48" lean-forward="false" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -60,6 +68,7 @@
         <option value="$PROJECT_DIR$/2_2_basic_typography.html" />
         <option value="$PROJECT_DIR$/2_3_text_alignment_display.html" />
         <option value="$PROJECT_DIR$/2_4_floats_position.html" />
+        <option value="$PROJECT_DIR$/2_5_colors_background.html" />
       </list>
     </option>
   </component>
@@ -139,7 +148,7 @@
       <option name="presentableId" value="Default" />
       <updated>1515718188599</updated>
       <workItem from="1515718191572" duration="141000" />
-      <workItem from="1515718353024" duration="1004000" />
+      <workItem from="1515718353024" duration="1243000" />
     </task>
     <task id="LOCAL-00001" summary="Heading &amp; Basic Typography">
       <created>1515719409074</created>
@@ -155,11 +164,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515722809563</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Floats &amp; Fixed Positions">
+      <created>1515723151665</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1515723151665</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1145000" />
+    <option name="totallyTimeSpent" value="1384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -196,7 +212,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Heading &amp; Basic Typography" />
     <MESSAGE value="Text Alignment &amp; Display" />
-    <option name="LAST_COMMIT_MESSAGE" value="Text Alignment &amp; Display" />
+    <MESSAGE value="Floats &amp; Fixed Positions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Floats &amp; Fixed Positions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -231,6 +248,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_5_colors_background.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="48" lean-forward="false" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
           <folding />
         </state>
       </provider>
