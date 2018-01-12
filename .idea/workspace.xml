@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7e8e165d-54a9-4b7b-885b-3acd790e4714" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/2_7_sizing.html" afterPath="$PROJECT_DIR$/2_7_sizing.html" />
+      <change beforePath="$PROJECT_DIR$/2_8_breakpoints.html" afterPath="$PROJECT_DIR$/2_8_breakpoints.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2_7_sizing.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2_7_sizing.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2_7_sizing.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-454">
@@ -75,6 +75,16 @@
               <folding>
                 <element signature="n#style#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2_8_breakpoints.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2_8_breakpoints.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="44" column="45" lean-forward="true" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -93,6 +103,7 @@
         <option value="$PROJECT_DIR$/2_5_colors_background.html" />
         <option value="$PROJECT_DIR$/2_6_spacing.html" />
         <option value="$PROJECT_DIR$/2_7_sizing.html" />
+        <option value="$PROJECT_DIR$/2_8_breakpoints.html" />
       </list>
     </option>
   </component>
@@ -172,7 +183,7 @@
       <option name="presentableId" value="Default" />
       <updated>1515718188599</updated>
       <workItem from="1515718191572" duration="141000" />
-      <workItem from="1515718353024" duration="1961000" />
+      <workItem from="1515718353024" duration="2328000" />
     </task>
     <task id="LOCAL-00001" summary="Heading &amp; Basic Typography">
       <created>1515719409074</created>
@@ -209,11 +220,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515724850510</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Sizing &amp; Borders">
+      <created>1515725344124</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1515725344124</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2102000" />
+    <option name="totallyTimeSpent" value="2469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -253,7 +271,8 @@
     <MESSAGE value="Floats &amp; Fixed Positions" />
     <MESSAGE value="colors &amp; background" />
     <MESSAGE value="Margin &amp; Padding Spacing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Margin &amp; Padding Spacing" />
+    <MESSAGE value="Sizing &amp; Borders" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sizing &amp; Borders" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -315,6 +334,14 @@
           <folding>
             <element signature="n#style#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_8_breakpoints.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="44" column="45" lean-forward="true" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
