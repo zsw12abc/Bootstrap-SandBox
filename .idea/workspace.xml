@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e8e165d-54a9-4b7b-885b-3acd790e4714" name="Default" comment="List Groups &amp; Badges">
+    <list default="true" id="7e8e165d-54a9-4b7b-885b-3acd790e4714" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/3_4_list_groups_badges.html" afterPath="$PROJECT_DIR$/3_4_list_groups_badges.html" />
+      <change beforePath="$PROJECT_DIR$/3_5_forms.html" afterPath="$PROJECT_DIR$/3_5_forms.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,16 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2_2_basic_typography.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_2_basic_typography.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="135" column="17" lean-forward="false" selection-start-line="135" selection-start-column="17" selection-end-line="135" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2_3_text_alignment_display.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2_3_text_alignment_display.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,11 +99,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3_4_list_groups_badges.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="3_4_list_groups_badges.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3_4_list_groups_badges.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="438">
               <caret line="113" column="76" lean-forward="true" selection-start-line="113" selection-start-column="76" selection-end-line="113" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3_5_forms.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3_5_forms.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="446">
+              <caret line="195" column="14" lean-forward="false" selection-start-line="195" selection-start-column="14" selection-end-line="195" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -137,6 +137,7 @@
         <option value="$PROJECT_DIR$/3_2_buttons.html" />
         <option value="$PROJECT_DIR$/3_3_navbar.html" />
         <option value="$PROJECT_DIR$/3_4_list_groups_badges.html" />
+        <option value="$PROJECT_DIR$/3_5_forms.html" />
       </list>
     </option>
   </component>
@@ -216,7 +217,7 @@
       <option name="presentableId" value="Default" />
       <updated>1515718188599</updated>
       <workItem from="1515718191572" duration="141000" />
-      <workItem from="1515718353024" duration="5956000" />
+      <workItem from="1515718353024" duration="6933000" />
     </task>
     <task id="LOCAL-00001" summary="Heading &amp; Basic Typography">
       <created>1515719409074</created>
@@ -281,11 +282,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515731940838</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="List Groups &amp; Badges">
+      <created>1515733005048</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1515733005048</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6097000" />
+    <option name="totallyTimeSpent" value="7074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -293,7 +301,7 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="ReactNative" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -423,6 +431,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="438">
           <caret line="113" column="76" lean-forward="true" selection-start-line="113" selection-start-column="76" selection-end-line="113" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_5_forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="195" column="14" lean-forward="false" selection-start-line="195" selection-start-column="14" selection-end-line="195" selection-end-column="14" />
           <folding />
         </state>
       </provider>
