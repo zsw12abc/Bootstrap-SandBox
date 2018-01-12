@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7e8e165d-54a9-4b7b-885b-3acd790e4714" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/3_9_cards.html" afterPath="$PROJECT_DIR$/3_9_cards.html" />
+      <change beforePath="$PROJECT_DIR$/3_10_media_object.html" afterPath="$PROJECT_DIR$/3_10_media_object.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,18 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2_7_sizing.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_7_sizing.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-454">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2_8_breakpoints.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2_8_breakpoints.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -116,7 +104,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3_9_cards.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="3_9_cards.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3_9_cards.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="387">
@@ -124,6 +112,16 @@
               <folding>
                 <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3_10_media_object.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3_10_media_object.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="177" column="13" lean-forward="false" selection-start-line="177" selection-start-column="13" selection-end-line="177" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -151,6 +149,7 @@
         <option value="$PROJECT_DIR$/3_7_alerts_progress.html" />
         <option value="$PROJECT_DIR$/3_8_tables_pagination.html" />
         <option value="$PROJECT_DIR$/3_9_cards.html" />
+        <option value="$PROJECT_DIR$/3_10_media_object.html" />
       </list>
     </option>
   </component>
@@ -231,7 +230,7 @@
       <option name="presentableId" value="Default" />
       <updated>1515718188599</updated>
       <workItem from="1515718191572" duration="141000" />
-      <workItem from="1515718353024" duration="11761000" />
+      <workItem from="1515718353024" duration="12213000" />
     </task>
     <task id="LOCAL-00001" summary="Heading &amp; Basic Typography">
       <created>1515719409074</created>
@@ -331,14 +330,21 @@
       <option name="project" value="LOCAL" />
       <updated>1515744525462</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Working with Card">
+      <created>1515747235607</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1515747235607</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11902000" />
+    <option name="totallyTimeSpent" value="12354000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="745" y="0" width="695" height="900" extended-state="6" />
+    <frame x="653" y="0" width="787" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -348,7 +354,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17124736" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17062314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Storybook" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -384,7 +390,8 @@
     <MESSAGE value="Input Groups" />
     <MESSAGE value="Alerts &amp; Progress Bars" />
     <MESSAGE value="Tables &amp; Pagination" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tables &amp; Pagination" />
+    <MESSAGE value="Working with Card" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working with Card" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -444,7 +451,7 @@
         <state relative-caret-position="-454">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -527,6 +534,14 @@
           <folding>
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_10_media_object.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="177" column="13" lean-forward="false" selection-start-line="177" selection-start-column="13" selection-end-line="177" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
