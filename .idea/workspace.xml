@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e8e165d-54a9-4b7b-885b-3acd790e4714" name="Default" comment="Collapse &amp; Accordion">
+    <list default="true" id="7e8e165d-54a9-4b7b-885b-3acd790e4714" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/5_4_tooltips.html" afterPath="$PROJECT_DIR$/5_4_tooltips.html" />
+      <change beforePath="$PROJECT_DIR$/5_5_popovers.html" afterPath="$PROJECT_DIR$/5_5_popovers.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -86,11 +86,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5_4_tooltips.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="5_4_tooltips.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5_4_tooltips.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
               <caret line="146" column="0" lean-forward="true" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5_5_popovers.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5_5_popovers.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="162" column="0" lean-forward="true" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -127,6 +137,7 @@
         <option value="$PROJECT_DIR$/5_2_carousel.html" />
         <option value="$PROJECT_DIR$/5_3_collapse.html" />
         <option value="$PROJECT_DIR$/5_4_tooltips.html" />
+        <option value="$PROJECT_DIR$/5_5_popovers.html" />
       </list>
     </option>
   </component>
@@ -194,23 +205,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.5_4_tooltips.html">
+  <component name="RunManager" selected="JavaScript Debug.5_5_popovers.html">
     <configuration name="4_5_auto_margins_wrapping_order.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap-SandBox/4_5_auto_margins_wrapping_order.html" />
     <configuration name="5_2_carousel.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap-SandBox/5_2_carousel.html" />
     <configuration name="5_3_collapse.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap-SandBox/5_3_collapse.html" />
     <configuration name="5_4_tooltips.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap-SandBox/5_4_tooltips.html" />
-    <list size="4">
+    <configuration name="5_5_popovers.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap-SandBox/5_5_popovers.html" />
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.4_5_auto_margins_wrapping_order.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.5_2_carousel.html" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.5_3_collapse.html" />
       <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.5_4_tooltips.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.5_5_popovers.html" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.5_4_tooltips.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.5_3_collapse.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.5_2_carousel.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.4_5_auto_margins_wrapping_order.html" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.5_5_popovers.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.5_4_tooltips.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.5_3_collapse.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.5_2_carousel.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.4_5_auto_margins_wrapping_order.html" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +244,7 @@
       <workItem from="1515718191572" duration="141000" />
       <workItem from="1515718353024" duration="16541000" />
       <workItem from="1515808124573" duration="4805000" />
-      <workItem from="1515890279032" duration="958000" />
+      <workItem from="1515890279032" duration="2108000" />
     </task>
     <task id="LOCAL-00001" summary="Heading &amp; Basic Typography">
       <created>1515719409074</created>
@@ -379,11 +393,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515818174731</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Tooltips">
+      <created>1515891245735</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1515891245735</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22445000" />
+    <option name="totallyTimeSpent" value="23595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -439,7 +460,8 @@
     <MESSAGE value="Flexbox Classes" />
     <MESSAGE value="Carousel Slider" />
     <MESSAGE value="Collapse &amp; Accordion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collapse &amp; Accordion" />
+    <MESSAGE value="Tooltips" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tooltips" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -724,6 +746,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="146" column="0" lean-forward="true" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_5_popovers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="162" column="0" lean-forward="true" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
           <folding />
         </state>
       </provider>
